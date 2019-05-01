@@ -11,7 +11,7 @@ wrappers to facilitate the use of antd components with
 
 ---
 
-## [Live Demo](http://zhdmitry.github.io/redux-form-antd) :eyes:
+## [Live Demo](http://zmitry.github.io/redux-form-antd) :eyes:
 
 ## Installation
 
@@ -70,7 +70,6 @@ the `username` element when your form mounts, you could do:
 ```js
 componentWillMount() {
   this.refs.firstField    
-    .getRenderedComponent() 
     .getRenderedComponent() 
     .focus()                
 }
